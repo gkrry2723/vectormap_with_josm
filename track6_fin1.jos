@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<josm-session version="0.1">
+    <viewport>
+        <center lat="5.404494720160813E-6" lon="-2.7711459853232966E-5"/>
+        <scale meter-per-pixel="0.025600"/>
+    </viewport>
+    <projection>
+        <projection-choice>
+            <id>core:mercator</id>
+            <parameters/>
+        </projection-choice>
+        <code>EPSG:3857</code>
+    </projection>
+    <layers active="1">
+        <layer index="1" name="new_track.osm" type="osm-data" version="0.1" visible="true">
+            <file>file:/home/xytron/Desktop/국민대/new_track.osm</file>
+        </layer>
+        <layer index="2" name="kookmin_track.jpg" type="piclayerImage" version="0.1" visible="true">
+            <piclayerImage>
+                <file>/home/xytron/Desktop/국민대/kookmin_track.jpg</file>
+                <thumbnail>false</thumbnail>
+            </piclayerImage>
+        </layer>
+    </layers>
+</josm-session>
